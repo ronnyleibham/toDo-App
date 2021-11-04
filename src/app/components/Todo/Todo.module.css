@@ -1,11 +1,16 @@
-.div_true {
-  background-color: green;
+.todo {
   padding: 20px 60px;
+
+  /* max-width: 300px; */
 }
 
-.div_false {
+.notDone {
   background-color: red;
-  padding: 20px 60px;
+}
+.done {
+  background-color: green;
+
+  /* width: 100%; */
 }
 
 .h1 {
